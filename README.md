@@ -1,1 +1,3 @@
-# Kafka_data_science
+#### Kafka Server
+#### Cassandra
+#### Spring boot
